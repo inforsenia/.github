@@ -1,4 +1,4 @@
-# Benvinguts/Bienvenidos! 👋
+# Vos donem la benvinguda! 👋
 
 Hola!
 
