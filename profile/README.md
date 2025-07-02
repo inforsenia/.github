@@ -8,7 +8,7 @@ Projectes, idees, recursos, ...
 
 ## Com puc participar?
 
-🌈 Contribution guidelines - how can the community get involved?
+🌈 Guia de Contribució (Work In Progress).
 
 ## Recursos
 
