@@ -9,6 +9,10 @@ Projectes, idees, recursos, ...
 
 🌈 Guia de Contribució (Estem treballant (WiP)).
 
+# Projectes Curriculars de Cicle Formatiu 
+
+- [Repositori de Projectes](https://github.com/inforsenia/PCCF)
+
 # Recursos
 
 # 👩‍💻 Recursos útils:
