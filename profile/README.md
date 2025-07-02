@@ -15,8 +15,6 @@ Projectes, idees, recursos, ...
 
 # Recursos
 
-# 👩‍💻 Recursos útils:
-
 - 🧙 Guia de Markdown [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
