@@ -1,18 +1,17 @@
-# Vos donem la benvinguda! 👋
+# Us donem la benvinguda! 👋
 
 Hola!
 
-Vos donem la benvinguda al repositori de codi del Departament d'Informàtica del IES La Sénia. 
+Us donem la benvinguda al repositori de codi del Departament d'Informàtica de l'IES La Sénia.
 
 Projectes, idees, recursos, ...
+# Com puc participar?
 
-## Com puc participar?
+🌈 Guia de Contribució (Estem treballant (WiP)).
 
-🌈 Guia de Contribució (Work In Progress).
+# Recursos
 
-## Recursos
-
-👩‍💻 Recursos útils:
+# 👩‍💻 Recursos útils:
 
 - 🧙 Guia de Markdown [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
