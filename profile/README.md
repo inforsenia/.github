@@ -5,6 +5,7 @@ Hola!
 Us donem la benvinguda al repositori de codi del Departament d'Informàtica de l'IES La Sénia.
 
 Projectes, idees, recursos, ...
+
 # Com puc participar?
 
 🌈 Guia de Contribució (Estem treballant (WiP)).
