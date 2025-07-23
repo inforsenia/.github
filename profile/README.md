@@ -16,6 +16,7 @@ Projectes, idees, recursos, ...
 
 # Recursos
 
+- 🧙 [Guia de utilitats per a La Senia](https://github.com/inforsenia/utils)
 - 🧙 Guia de Markdown [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
