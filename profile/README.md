@@ -14,6 +14,10 @@ Projectes, idees, recursos, ...
 
 - [Repositori de Projectes](https://github.com/inforsenia/PCCF)
 
+# Móduls en GitHub/GitLab
+
+- [ASIR - Projecte Intermodular](https://github.com/inforsenia/ASIR-Intermodular)
+
 # Recursos
 
 - 🧙 [Guia de utilitats per a La Senia](https://github.com/inforsenia/utils)
