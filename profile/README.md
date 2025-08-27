@@ -16,7 +16,11 @@ Projectes, idees, recursos, ...
 
 # Móduls en GitHub/GitLab
 
+- [SMX - SOM](https://gitlab.com/aberlanas/SMX-SOM)
 - [ASIR - Projecte Intermodular](https://github.com/inforsenia/ASIR-Intermodular)
+- [GitLab - Sostenibilidad](https://gitlab.com/aberlanas/sostenibilidad)
+- [ASIR - ASO](https://gitlab.com/aberlanas/ASIR-ASO)
+
 
 # Recursos
 
