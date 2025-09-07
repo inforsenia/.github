@@ -18,9 +18,9 @@ Projectes, idees, recursos, ...
 
 - [SMX - SOM](https://gitlab.com/aberlanas/SMX-SOM)
 - [ASIR - Projecte Intermodular](https://github.com/inforsenia/ASIR-Intermodular)
+- [ASIR - Fundamentos Hardware](https://gitlab.com/aberlanas/ASIR-FHW)
+- [ASIR - Administración de Sistemas Operativos](https://gitlab.com/aberlanas/ASIR-ASO)
 - [GitLab - Sostenibilidad](https://gitlab.com/aberlanas/sostenibilidad)
-- [ASIR - ASO](https://gitlab.com/aberlanas/ASIR-ASO)
-
 
 # Recursos
 
