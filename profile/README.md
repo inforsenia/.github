@@ -22,6 +22,17 @@ Projectes, idees, recursos, ...
 - [ASIR - Administración de Sistemas Operativos](https://gitlab.com/aberlanas/ASIR-ASO)
 - [GitLab - Sostenibilidad](https://gitlab.com/aberlanas/sostenibilidad)
 
+# Tabla de Herramientas
+
+| Herramienta | Web | Propósito |
+| ------------|-----|-----------|
+| VSCodium    |[vscodium](https://vscodium.com/)| Editor FOSS - VSCode |
+| Git         |[git](https://git-scm.com/downloads)| Control de Versiones|
+| Virtualbox  |[virtualbox](https://www.virtualbox.org/) | Virtualización de Escritorio |
+| podman      |[podman](https://podman.io/)| Virtualización mediante contenedores |
+| java        |[java](https://www.oracle.com/java/technologies/downloads/)| Programación.|
+| Android Studio| [Web Android Studio](https://developer.android.com/studio?hl=es-419)| IDE para Móviles.|
+
 # Recursos
 
 - 🧙 [Guia de utilitats per a La Senia](https://github.com/inforsenia/utils)
