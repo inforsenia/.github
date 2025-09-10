@@ -14,6 +14,10 @@ Projectes, idees, recursos, ...
 
 - [Repositori de Projectes](https://github.com/inforsenia/PCCF)
 
+# Wiki de Utilidades
+
+- [WikiTIC](https://github.com/inforsenia/utils/wiki)
+
 # Móduls en GitHub/GitLab
 
 - [SMX - SOM](https://gitlab.com/aberlanas/SMX-SOM)
