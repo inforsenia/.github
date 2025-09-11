@@ -25,6 +25,9 @@ Projectes, idees, recursos, ...
 - [ASIR - Fundamentos Hardware](https://gitlab.com/aberlanas/ASIR-FHW)
 - [ASIR - Administración de Sistemas Operativos](https://gitlab.com/aberlanas/ASIR-ASO)
 - [GitLab - Sostenibilidad](https://gitlab.com/aberlanas/sostenibilidad)
+- [SMX y ASIR - Servicios en red y Servicios de red e Internet](https://profesorjavi.github.io/SR/)
+- [SMX - Servicios en red. Proyecto](https://profesorjavi.github.io/thelastofus/)
+- [ASIR - Servicios de red e Internet. Proyecto](https://profesorjavi.github.io/Terraformadores/v5/)
 
 # Tabla de Herramientas
 
