@@ -20,20 +20,27 @@ Projectes, idees, recursos, ...
 
 # Móduls en GitHub/GitLab
 
+## SMX 
 - [SMX - SOM](https://gitlab.com/aberlanas/SMX-SOM)
-- [ASIR - Projecte Intermodular](https://github.com/inforsenia/ASIR-Intermodular)
-- [ASIR - Fundamentos Hardware](https://gitlab.com/aberlanas/ASIR-FHW)
-- [ASIR - Administración de Sistemas Operativos](https://gitlab.com/aberlanas/ASIR-ASO)
 - [GitLab - Sostenibilidad](https://gitlab.com/aberlanas/sostenibilidad)
-- [SMX y ASIR - Servicios en red y Servicios de red e Internet](https://profesorjavi.github.io/SR/)
+- [SMX - Servicios en red](https://profesorjavi.github.io/SR/)
 - [SMX - Servicios en red. Proyecto](https://profesorjavi.github.io/thelastofus/)
+
+## ASIR
+
+- [ASIR - Fundamentos Hardware](https://gitlab.com/aberlanas/ASIR-FHW)
+- [ASIR - Projecte Intermodular](https://github.com/inforsenia/ASIR-Intermodular)
+- [ASIR - Servicios de red e Internet](https://profesorjavi.github.io/SR/)
 - [ASIR - Servicios de red e Internet. Proyecto](https://profesorjavi.github.io/Terraformadores/v5/)
+- [ASIR - Administración de Sistemas Operativos](https://inforsenia.github.io/Terraformadores/v4/)
+- [ASIR 2 - Terraformadores](https://inforsenia.github.io/Terraformadores/)
 
 # Tabla de Herramientas
 
 | Herramienta | Web | Propósito |
 | ------------|-----|-----------|
 | VSCodium    |[vscodium](https://vscodium.com/)| Editor FOSS - VSCode |
+| vim         |[Vim](https://www.vim.org/)| Un Editor como toca|
 | Git         |[git](https://git-scm.com/downloads)| Control de Versiones|
 | Virtualbox  |[virtualbox](https://www.virtualbox.org/) | Virtualización de Escritorio |
 | podman      |[podman](https://podman.io/)| Virtualización mediante contenedores |
