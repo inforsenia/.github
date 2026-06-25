@@ -21,18 +21,18 @@ Projectes, idees, recursos, ...
 # Móduls en GitHub/GitLab
 
 ## SMX 
-- [SMX - SOM](https://gitlab.com/aberlanas/SMX-SOM)
-- [GitLab - Sostenibilidad](https://gitlab.com/aberlanas/sostenibilidad)
+- [Codeberg - SMX - SOM](https://codeberg.org/aberlanas/smx-som)
+- [Codeberg - Sostenibilidad](https://codeberg.org/aberlanas/sasp-sostenibilidad)
 - [SMX - Servicios en red](https://profesorjavi.github.io/SR/)
 - [SMX - Servicios en red. Proyecto](https://profesorjavi.github.io/thelastofus/)
 
 ## ASIR
 
-- [ASIR - Fundamentos Hardware](https://gitlab.com/aberlanas/ASIR-FHW)
+- [Codeberg - ASIR - Fundamentos Hardware](https://codeberg.org/aberlanas/asir-fhw)
 - [ASIR - Projecte Intermodular](https://github.com/inforsenia/ASIR-Intermodular)
 - [ASIR - Servicios de red e Internet](https://profesorjavi.github.io/SR/)
 - [ASIR - Servicios de red e Internet. Proyecto](https://profesorjavi.github.io/Terraformadores/v5/)
-- [ASIR - Administración de Sistemas Operativos](https://inforsenia.github.io/Terraformadores/v4/)
+- [Codeberg - ASIR - Administración de Sistemas Operativos](https://codeberg.org/aberlanas/asir-aso)
 - [ASIR 2 - Terraformadores](https://inforsenia.github.io/Terraformadores/)
 
 # Tabla de Herramientas
