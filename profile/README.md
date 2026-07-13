@@ -13,6 +13,7 @@ Projectes, idees, recursos, ...
 # Projectes Curriculars de Cicle Formatiu 
 
 - [Repositori de Projectes](https://github.com/inforsenia/PCCF)
+- [Utilidades Software](https://github.com/inforsenia/tic-tasks-senia)
 
 # Wiki de Utilidades
 
