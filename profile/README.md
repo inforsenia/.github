@@ -6,24 +6,19 @@ Us donem la benvinguda al repositori de codi del Departament d'Informàtica de l
 
 Projectes, idees, recursos, ...
 
-# Com puc participar?
-
-🌈 Guia de Contribució (Estem treballant (WiP)).
-
 # Projectes Curriculars de Cicle Formatiu 
 
 - [Repositori de Projectes](https://github.com/inforsenia/PCCF)
-- [Utilidades Software del IES La Senia](https://github.com/inforsenia/tic-tasks-senia)
+- [Utilitats Software de l'IES La Senia](https://github.com/inforsenia/tic-tasks-senia)
 
 # Wiki de Utilidades
 
 - [WikiTIC](https://github.com/inforsenia/utils/wiki)
 
-# Móduls en GitHub/GitLab
+# Móduls en GitHub/Codeberg
 
 ## SMX 
 - [Codeberg - SMX - SOM](https://codeberg.org/aberlanas/smx-som)
-- [Codeberg - Sostenibilidad](https://codeberg.org/aberlanas/sasp-sostenibilidad)
 - [SMX - Servicios en red](https://profesorjavi.github.io/SR/)
 - [SMX - Servicios en red. Proyecto](https://profesorjavi.github.io/thelastofus/)
 
@@ -35,6 +30,10 @@ Projectes, idees, recursos, ...
 - [ASIR - Servicios de red e Internet. Proyecto](https://profesorjavi.github.io/Terraformadores/v5/)
 - [Codeberg - ASIR - Administración de Sistemas Operativos](https://codeberg.org/aberlanas/asir-aso)
 - [ASIR 2 - Terraformadores](https://inforsenia.github.io/Terraformadores/)
+
+## Curso de Especialización Recursos y Servicios en la Nube
+
+- [Codeberg - Despliegue de servicios administrados en la nube](https://codeberg.org/aberlanas/dsan)
 
 # Tabla de Herramientas
 
