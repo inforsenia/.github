@@ -8,12 +8,8 @@ Projectes, idees, recursos, ...
 
 # Projectes Curriculars de Cicle Formatiu 
 
-- [Repositori de Projectes](https://github.com/inforsenia/PCCF)
+- [Repositori de PCCF i PCCE](https://github.com/inforsenia/PCCF)
 - [Utilitats Software de l'IES La Senia](https://github.com/inforsenia/tic-tasks-senia)
-
-# Wiki de Utilidades
-
-- [WikiTIC](https://github.com/inforsenia/utils/wiki)
 
 # Móduls en GitHub/Codeberg
 
@@ -46,6 +42,12 @@ Projectes, idees, recursos, ...
 | podman      |[podman](https://podman.io/)| Virtualización mediante contenedores |
 | java        |[java](https://www.oracle.com/java/technologies/downloads/)| Programación.|
 | Android Studio| [Web Android Studio](https://developer.android.com/studio?hl=es-419)| IDE para Móviles.|
+
+# Wiki de Utilidades
+
+- [WikiTIC](https://github.com/inforsenia/utils/wiki)
+
+
 
 # Recursos
 
