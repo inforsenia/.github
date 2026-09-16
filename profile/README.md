@@ -11,7 +11,7 @@ Projectes, idees, recursos, ...
 En el repositori del PCCF i PCCE podreu trobar les Programacions Didàctiques construides amb Markdown dels diferents móduls i cicles.
 
 - [Repositori de PCCF i PCCE](https://github.com/inforsenia/PCCF)
-- [Utilitats Software de l'IES La Senia](https://github.com/inforsenia/tic-tasks-senia)
+- [Equip TIC IES La Senia](https://github.com/inforsenia/tic-tasks-senia)
 
 # Móduls en GitHub/Codeberg
 
